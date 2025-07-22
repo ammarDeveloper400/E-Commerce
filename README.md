@@ -1,2 +1,1 @@
-# E-Commerce
-For selling matresses
+# BedMatress-API
